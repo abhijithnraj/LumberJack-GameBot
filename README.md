@@ -1,17 +1,19 @@
 # LumberJack-GameBot
-A programme to play the familiar lumberjack game in telegram
+**A programme to play the familiar lumberjack game in telegram**
 
 The LumberJack game can be found here https://telegram.im/@gamebot?game=lumberjack
 
-Before seeing the game AI works you have to install the following dependencies mainly in python3
+## Dependencies:
 
-pip3 install numpy
-pip3 install pyautogui
-pip3 install pillow
+1. numpy
+2. pyautogui
+3. pillow
 
-Make sure you also install the scrot tool for screencapture in linux using 
-sudo apt install scrot
+To install the dependencies just run `pip3 install -r requirements.txt`
 
-To Let the bot play the game all you have to do is download the program and run it,While quickly going to the above link and starting the game in full screen.
+* Make sure you also install the scrot tool for screencapture in linux using 
+`sudo apt install scrot`
 
-The above Program is hardcoded and I am currently working on developing one using CNN. It will be released in time.
+Just start the game and quickly switch the screen to the browser. Play the game in full screen mode for better accuracy
+
+> The above Program is hardcoded and I am currently working on developing one using CNN. It will be released in time.
