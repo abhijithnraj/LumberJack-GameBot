@@ -1,5 +1,8 @@
 # LumberJack-GameBot
+
 **A programme to play the familiar lumberjack game in telegram**
+
+Make sure you have an account on telegram. Read more about telegram at https://www.telegram.org.
 
 The LumberJack game can be found here https://telegram.im/@gamebot?game=lumberjack
 
